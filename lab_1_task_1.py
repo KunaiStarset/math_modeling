@@ -1,4 +1,4 @@
 print ('Hello, World!')
 print ('Маша + Петя = Любовь')
-x = 3 + 4
-print (x)
+print ('x = 3 + 4')
+print (3 + 4)
